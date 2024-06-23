@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm David, a beginner in Fronted development </div>  
+### <div align="center">I'm David, a beginner in Frontend development </div>  
   
 
   
@@ -29,6 +29,8 @@
 
 
 ### Frontend  
+<style>
+  text decoration: none;
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -36,6 +38,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
+</style>
 
 </td><td valign="top" width="33%">
 
@@ -46,6 +49,8 @@
 
 
 ### Другие направления  
+<style>
+  text decoration: none;
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -53,6 +58,7 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.openui5.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openui5.svg" alt="OpenUI5" height="50" /></a>  
 </div>
+  </style>
 
 </td></tr></table>  
 
