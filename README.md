@@ -77,12 +77,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huh0913&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=huh0913&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=huh0913&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=0&show_icons=true)" align="center" /></div>  
 
 
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=huh0913)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="[[https://github-readme-stats.vercel.app/api?username=huh0913&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=huh0913&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=0&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages))" align="center" />
+
 
 
 
