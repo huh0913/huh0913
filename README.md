@@ -79,6 +79,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huh0913&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=huh0913)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=huh0913)  
 <br/>  
 
   
